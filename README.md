@@ -1,6 +1,9 @@
 # proyecto final
-Codigo del demo:
+Codigo del demo: ProyectoFinal
 
- Video demo:
+Despliege del proyecto:
+
+ Video demo: https://youtu.be/Nn3SmTy4-4M
+ 
  video explicativo:
  
