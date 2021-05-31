@@ -9,11 +9,9 @@
 <h2>Instrucciones del despliege:</h2> 
   ble ble be
   
-Codigo del demo: ProyectoFinal
-
-Despliege del proyecto: BuildProyecto5
-
- Video demo: https://youtu.be/Nn3SmTy4-4M
- 
- video explicativo: 
+- Blog:
+- Codigo del demo: ProyectoFinal.
+- Despliege del proyecto: BuildProyecto5
+- Video demo: https://youtu.be/Nn3SmTy4-4M 
+- video explicativo: 
  
