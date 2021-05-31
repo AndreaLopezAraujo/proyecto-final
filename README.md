@@ -7,9 +7,12 @@
   ble ble ble
  
 <h2>Instrucciones del despliege:</h2> 
+<h3>Windows:</h3>
+
+<h3>Mac:</h3>
   ble ble be
   
-- Blog:
+- Blog: https://sebascalvache.com/2021/05/31/proyecto-final-cvi/
 - Codigo del demo: ProyectoFinal.
 - Despliege del proyecto: BuildProyecto5
 - Video demo: https://youtu.be/Nn3SmTy4-4M 
