@@ -12,7 +12,7 @@ En el componente interactivo, el usuario puede explorar y ver dentro del edifici
  
 <h2>Instrucciones del despliege:</h2> 
 <h3>Windows:</h3>
-Para el despliege en windows se debe de escargar la carpeta llamada BuildProyecto5 en esta se debe de correr el ejecutable y con esto es suficiente para probar el juego.
+Para el despliege en windows se debe de escargar la carpeta llamada BuildProyecto5 en esta se debe de correr el ejecutable y con esto es suficiente para probar el juego. El archivo cuenta con el nombre de Proyecto5-CVI-EnvejecimientoEdificio
 <h3>Mac:</h3>
   ble ble be
 <h2>Enlaces de interes</h2> 
