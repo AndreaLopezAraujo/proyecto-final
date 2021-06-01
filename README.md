@@ -4,7 +4,9 @@
  - Andrea Carolina Lopez-201531591
  
  <h2> Descripcion del proyecto:</h2>
-  ble ble ble
+ En este blog se describen y ilustran los varios componentes implementados para crear una animación interactiva de un edificio el cual se destruye y envejece en frente del usuario.
+
+En el componente interactivo, el usuario puede explorar y ver dentro del edificio mientras ve su envejecimiento y desgaste en el tiempo, en adicion a poder ponerle un toque personal de aplicar moho en donde desee. Tambien se puede agrandar el tamaño del moho aplicable usando el slider en la parte superior izquierda de la pantalla.
  
 <h2>Instrucciones del despliege:</h2> 
 <h3>Windows:</h3>
