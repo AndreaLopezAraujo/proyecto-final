@@ -10,13 +10,12 @@ En el componente interactivo, el usuario puede explorar y ver dentro del edifici
  
 <h2>Instrucciones del despliege:</h2> 
 <h3>Windows:</h3>
-
+Para el despliege en windows se debe de escargar la carpeta llamada BuildProyecto5 en esta se debe de correr el ejecutable y con esto es suficiente para probar el juego.
 <h3>Mac:</h3>
   ble ble be
-  
+<h2>Enlaces de interes</h2> 
 - Blog: https://sebascalvache.com/2021/05/31/proyecto-final-cvi/
 - Codigo del demo: ProyectoFinal.
-- Despliege del proyecto: BuildProyecto5
 - Video demo: https://youtu.be/Nn3SmTy4-4M 
 - video explicativo: 
  
